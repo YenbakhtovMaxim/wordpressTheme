@@ -1,0 +1,2 @@
+# wordpressTheme
+Simple bootstrap theme
